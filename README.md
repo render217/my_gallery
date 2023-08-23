@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://render217.github.io/my_gallery/">
+    <a href="https://render217.github.io/my_gallery/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/p2IwtQWlUXTm1MBuKmmc" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I" target="_blank">
       Challenge
     </a>
   </h3>
